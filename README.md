@@ -1,2 +1,0 @@
-# bookbot
-Repo for bookbot
